@@ -1,0 +1,14 @@
+C:\Users\LosSupers\Desktop\web\.net\bin\Debug\net8.0\.net.exe
+C:\Users\LosSupers\Desktop\web\.net\bin\Debug\net8.0\.net.deps.json
+C:\Users\LosSupers\Desktop\web\.net\bin\Debug\net8.0\.net.runtimeconfig.json
+C:\Users\LosSupers\Desktop\web\.net\bin\Debug\net8.0\.net.dll
+C:\Users\LosSupers\Desktop\web\.net\bin\Debug\net8.0\.net.pdb
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\.net.AssemblyInfoInputs.cache
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\.net.AssemblyInfo.cs
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\.net.csproj.CoreCompileInputs.cache
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\.net.dll
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\refint\.net.dll
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\.net.pdb
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\.net.genruntimeconfig.cache
+C:\Users\LosSupers\Desktop\web\.net\obj\Debug\net8.0\ref\.net.dll

@@ -1,0 +1,14 @@
+C:\Users\LosSupers\Desktop\web\.net3\bin\Debug\net8.0\.net3.exe
+C:\Users\LosSupers\Desktop\web\.net3\bin\Debug\net8.0\.net3.deps.json
+C:\Users\LosSupers\Desktop\web\.net3\bin\Debug\net8.0\.net3.runtimeconfig.json
+C:\Users\LosSupers\Desktop\web\.net3\bin\Debug\net8.0\.net3.dll
+C:\Users\LosSupers\Desktop\web\.net3\bin\Debug\net8.0\.net3.pdb
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\.net3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\.net3.AssemblyInfoInputs.cache
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\.net3.AssemblyInfo.cs
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\.net3.csproj.CoreCompileInputs.cache
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\.net3.dll
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\refint\.net3.dll
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\.net3.pdb
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\.net3.genruntimeconfig.cache
+C:\Users\LosSupers\Desktop\web\.net3\obj\Debug\net8.0\ref\.net3.dll
