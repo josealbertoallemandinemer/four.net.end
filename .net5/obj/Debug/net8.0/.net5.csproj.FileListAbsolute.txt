@@ -1,0 +1,15 @@
+C:\Users\LosSupers\Desktop\web\net\.net5\bin\Debug\net8.0\.net5.exe
+C:\Users\LosSupers\Desktop\web\net\.net5\bin\Debug\net8.0\.net5.deps.json
+C:\Users\LosSupers\Desktop\web\net\.net5\bin\Debug\net8.0\.net5.runtimeconfig.json
+C:\Users\LosSupers\Desktop\web\net\.net5\bin\Debug\net8.0\.net5.dll
+C:\Users\LosSupers\Desktop\web\net\.net5\bin\Debug\net8.0\.net5.pdb
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.AssemblyInfoInputs.cache
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.AssemblyInfo.cs
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.csproj.CoreCompileInputs.cache
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.sourcelink.json
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.dll
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\refint\.net5.dll
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.pdb
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\.net5.genruntimeconfig.cache
+C:\Users\LosSupers\Desktop\web\net\.net5\obj\Debug\net8.0\ref\.net5.dll

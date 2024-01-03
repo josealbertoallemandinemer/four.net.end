@@ -1,0 +1,15 @@
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.AssemblyInfoInputs.cache
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.AssemblyInfo.cs
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.csproj.CoreCompileInputs.cache
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.sourcelink.json
+C:\Users\LosSupers\Desktop\web\net\.net6\bin\Debug\net8.0\.net6.exe
+C:\Users\LosSupers\Desktop\web\net\.net6\bin\Debug\net8.0\.net6.deps.json
+C:\Users\LosSupers\Desktop\web\net\.net6\bin\Debug\net8.0\.net6.runtimeconfig.json
+C:\Users\LosSupers\Desktop\web\net\.net6\bin\Debug\net8.0\.net6.dll
+C:\Users\LosSupers\Desktop\web\net\.net6\bin\Debug\net8.0\.net6.pdb
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.dll
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\refint\.net6.dll
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.pdb
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\.net6.genruntimeconfig.cache
+C:\Users\LosSupers\Desktop\web\net\.net6\obj\Debug\net8.0\ref\.net6.dll

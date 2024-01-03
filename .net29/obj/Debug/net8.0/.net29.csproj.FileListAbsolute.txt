@@ -1,0 +1,15 @@
+C:\Users\LosSupers\Desktop\web\net\.net29\bin\Debug\net8.0\.net29.exe
+C:\Users\LosSupers\Desktop\web\net\.net29\bin\Debug\net8.0\.net29.deps.json
+C:\Users\LosSupers\Desktop\web\net\.net29\bin\Debug\net8.0\.net29.runtimeconfig.json
+C:\Users\LosSupers\Desktop\web\net\.net29\bin\Debug\net8.0\.net29.dll
+C:\Users\LosSupers\Desktop\web\net\.net29\bin\Debug\net8.0\.net29.pdb
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.AssemblyInfoInputs.cache
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.AssemblyInfo.cs
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.csproj.CoreCompileInputs.cache
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.sourcelink.json
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.dll
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\refint\.net29.dll
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.pdb
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\.net29.genruntimeconfig.cache
+C:\Users\LosSupers\Desktop\web\net\.net29\obj\Debug\net8.0\ref\.net29.dll
